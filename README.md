@@ -27,4 +27,21 @@ The binary number 1011 is evaluated as:
 
 1 × 2³ + 0 × 2² + 1 × 2¹ + 1 × 2⁰ = 8 + 0 + 2 + 1 = 11 (decimal)
 
+## Hexadecimal (Base 16)
+
+### What it is:
+The hexadecimal system is a base 16 system that uses 16 symbols: 0-9 for values zero through nine, and A-F for values ten through fifteen.
+
+### Why it’s used:
+Hexadecimal is used because it is more compact and easier to read than binary. Each hexadecimal digit corresponds to four binary digits (a nibble), which makes it more efficient for humans to work with large binary numbers.
+
+### Position Value:
+Each position in a hexadecimal number represents a power of 16. For example, in the hexadecimal number 2F, the F represents 16⁰ and the 2 represents 16¹.
+
+### Example of Hexadecimal Representation:
+The hexadecimal number 2F can be converted to decimal as follows:
+
+2 × 16¹ + F × 16⁰ = 32 + 15 = 47 (decimal)
+
+
 
