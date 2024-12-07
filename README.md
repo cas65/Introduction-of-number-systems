@@ -32,4 +32,8 @@ The hexadecimal number 2F can be converted to decimal as follows:
 2 × 16¹ + F × 16⁰ = 32 + 15 = 47 (decimal)
 
 
+### Next Section: 
+[Binary Numbers](https://github.com/cas65/Binary.git) 
+
+
 
